@@ -2,6 +2,9 @@
 ## 📌 Python Data Types 
 Python data types define the kind of value a variable can hold and how it behaves. This ensures data is stored, processed, and utilized efficiently.
 
+[Python Data types](![image](https://github.com/user-attachments/assets/f362b6e7-0b47-47ee-8dad-531b6154f2bc)
+)
+
 # 1. Numeric Types
 int – Whole numbers (e.g., 42)
 float – Decimal numbers (e.g., 3.14)
